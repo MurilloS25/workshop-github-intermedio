@@ -6,6 +6,7 @@ Nivel: intermedio en Git y GitHub, principiante absoluto en Actions
 Duración: 2 horas
 Formato: laboratorio guiado, autocontenido, de principio a fin
 
+Hola
 ---
 
 ## Qué es esto
